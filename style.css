@@ -3,7 +3,7 @@ html,body,header, #intro{
 }
 
 #intro{
-    background: url(../img/photo.jpg);
+    background: url(img/photo.jpg);
     -webkit-background-size: cover;
     background-size: cover;
 }
